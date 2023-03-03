@@ -43,5 +43,3 @@ function onImageOpenModal(e) {
     }
   }
 }
-
-console.log(galleryItems);
